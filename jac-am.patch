@@ -1,0 +1,12 @@
+diff -Nura jac-0.15/src/Makefile.am jac-0.15.new/src/Makefile.am
+--- jac-0.15/src/Makefile.am	2000-05-20 18:21:52.000000000 +0200
++++ jac-0.15.new/src/Makefile.am	2004-08-16 23:26:19.000000000 +0200
+@@ -3,8 +3,6 @@
+ bin_PROGRAMS = jac
+ man_MANS = jac.1
+ 
+-CFLAGS = -g -Wall -O2
+-
+ INCLUDES = -I$(includedir)
+ 
+ LANG = ENGLISH
