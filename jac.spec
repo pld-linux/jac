@@ -5,7 +5,7 @@ Version:	0.15
 Release:	1
 License:	GPL v2
 Group:		Applications/Sound
-Source0:	http://dl.sourceforge.net/sourceforge/jac/%{name}-%{version}.tar.gz
+Source0:	http://dl.sourceforge.net/jac/%{name}-%{version}.tar.gz
 # Source0-md5:	ff8603ee2150e9f8dd0901f0a5f19d04
 Patch0:		%{name}-am.patch
 URL:		http://jac.sourceforge.net/
@@ -56,4 +56,4 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(644,root,root,755)
 %doc AUTHORS ChangeLog NEWS README
 %attr(755,root,root) %{_bindir}/%{name}
-%{_mandir}/man1/%{name}.1.gz
+%{_mandir}/man1/%{name}.1*
