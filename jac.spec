@@ -1,5 +1,5 @@
 Summary:	jac - just Another CD player
-Summary(pl):	jac - jeszcze jeden odtwarzacz CD
+Summary(pl.UTF-8):   jac - jeszcze jeden odtwarzacz CD
 Name:		jac
 Version:	0.15
 Release:	1
@@ -22,14 +22,14 @@ mixer device, if present) and give you detailed information about CD.
 Jac can download cd info from CDDB (www.cddb.com) and from CdIndex
 (www.cdindex.org) and read CDDB files downloaded from other CD Player.
 
-%description -l pl
-Jac jest dzia³aj±cym z linii poleceñ odtwarzaczem CD, który pozwala
-s³uchaæ p³yt CD przez ca³y czas, bez potrzeby utrzymywania do tego
-specjalnej konsoli. Od wersji 0.11 stworzono ma³± tekstow± konsolê dla
-tych, co wol± konsolê od procesu w tle. Jac potrafi regulowaæ g³o¶no¶æ
-(u¿ywaj±c urz±dzenia(sic!) mixer, je¶li jest) oraz podaje dok³adne
-informacje o danym CD. Jac potrafi pobraæ informacje o p³ycie z baz
-CDDB (www.cddb.com) i z CdIndex (www.cdindex.org) oraz czytaæ pliki
+%description -l pl.UTF-8
+Jac jest dziaÅ‚ajÄ…cym z linii poleceÅ„ odtwarzaczem CD, ktÃ³ry pozwala
+sÅ‚uchaÄ‡ pÅ‚yt CD przez caÅ‚y czas, bez potrzeby utrzymywania do tego
+specjalnej konsoli. Od wersji 0.11 stworzono maÅ‚Ä… tekstowÄ… konsolÄ™ dla
+tych, co wolÄ… konsolÄ™ od procesu w tle. Jac potrafi regulowaÄ‡ gÅ‚oÅ›noÅ›Ä‡
+(uÅ¼ywajÄ…c urzÄ…dzenia(sic!) mixer, jeÅ›li jest) oraz podaje dokÅ‚adne
+informacje o danym CD. Jac potrafi pobraÄ‡ informacje o pÅ‚ycie z baz
+CDDB (www.cddb.com) i z CdIndex (www.cdindex.org) oraz czytaÄ‡ pliki
 CDDB pobrane przez innego odtwarzacza CD.
 
 %prep
