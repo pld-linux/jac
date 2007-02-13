@@ -1,5 +1,5 @@
 Summary:	jac - just Another CD player
-Summary(pl.UTF-8):   jac - jeszcze jeden odtwarzacz CD
+Summary(pl.UTF-8):	jac - jeszcze jeden odtwarzacz CD
 Name:		jac
 Version:	0.15
 Release:	1
